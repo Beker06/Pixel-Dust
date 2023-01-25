@@ -1,0 +1,15 @@
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\bin\Debug\PixelDust.exe.config
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\bin\Debug\PixelDust.exe
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\bin\Debug\PixelDust.pdb
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.csproj.AssemblyReference.cache
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.Form1.resources
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.Properties.Resources.resources
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.csproj.GenerateResource.cache
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.csproj.CoreCompileInputs.cache
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.exe
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.pdb
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.Herramientas.resources
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\bin\Debug\Dustin.dll
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\bin\Debug\Dustin.pdb
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.csproj.CopyComplete
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PixelDust\obj\Debug\PixelDust.csproj.SuggestedBindingRedirects.cache
